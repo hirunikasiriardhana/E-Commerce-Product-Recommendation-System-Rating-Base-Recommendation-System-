@@ -1,2 +1,2 @@
 # E-Commerce-Product-Recommendation-System-Rating-Base-Recommendation-System-
-aa
+This project aims to develop an e-commerce product recommendation system based on user ratings. The dataset includes key details such as Product ID, Product Rating, Product Reviews Count, and Product Category. By analyzing this data, the system recommends products that align with user preferences. Key inputs include product ratings and review counts, while the outputs are tailored product suggestions. Utilizing Pandas and NumPy for data handling, and Matplotlib and Seaborn for visualizations, this system enhances the shopping experience by providing relevant and highly rated product recommendations.
